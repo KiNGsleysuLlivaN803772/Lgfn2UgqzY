@@ -2649,7 +2649,6 @@ PLANTUML_JAR_PATH      =
 # configuration file for plantuml.
 
 PLANTUML_CFG_FILE      =
-
 # When using plantuml, the specified paths are searched for files specified by
 # the !include statement in a plantuml block.
 
