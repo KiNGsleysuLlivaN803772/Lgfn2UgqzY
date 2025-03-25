@@ -65,7 +65,6 @@
 * [NowShowing](https://github.com/ninthwalker/NowShowing) ([Docker](https://hub.docker.com/r/ninthwalker/nowshowing/))
 * [Nextcloud](https://nextcloud.com) ([Docker](https://hub.docker.com/r/linuxserver/nextcloud/))
 * [Heimdall](https://github.com/linuxserver/Heimdall) ([Docker](https://hub.docker.com/r/linuxserver/heimdall/))
-* [Netdata](https://my-netdata.io) ([Docker](https://github.com/titpetric/netdata))
 * [Portainer](https://portainer.io) ([Docker](https://hub.docker.com/r/portainer/portainer/))
 * [Resilio Sync](https://www.resilio.com) ([Docker](https://hub.docker.com/r/resilio/sync/))
 * [The Lounge](https://thelounge.chat) ([Docker](https://hub.docker.com/r/linuxserver/thelounge/))
