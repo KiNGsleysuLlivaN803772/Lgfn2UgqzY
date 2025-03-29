@@ -13,7 +13,6 @@ variable demo_node_vpc_id         {}
 module "demo-node" {
   source = "../../../modules/compute/nodes/demo_node"
 
-  # instance configuration
   ami           = "${var.ami}"
   instance_type = "${var.demo_node_instance_type}"
   count         = "${var.demo_node_instance_count}"
