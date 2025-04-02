@@ -9,7 +9,6 @@
   "extends": [
     "eslint:recommended",
     "standard",
-    "plugin:@typescript-eslint/eslint-recommended"
   ],
   "rules": {
     "no-prototype-builtins": 0,
