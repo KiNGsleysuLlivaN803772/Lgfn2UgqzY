@@ -1130,7 +1130,6 @@ SOURCE_TOOLTIPS        = YES
 # - Enable SOURCE_BROWSER and USE_HTAGS in the configuration file
 # - Make sure the INPUT points to the root of the source tree
 # - Run doxygen as normal
-#
 # Doxygen will invoke htags (and that will in turn invoke gtags), so these
 # tools must be available from the command line (i.e. in the search path).
 #
