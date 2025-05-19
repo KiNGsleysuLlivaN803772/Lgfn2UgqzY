@@ -11,5 +11,4 @@ packages/**/*.test.*
 !.github/scripts
 *.tsbuildinfo
 packages/cli/dist/**/e2e.*
-docker/compose
 cypress
