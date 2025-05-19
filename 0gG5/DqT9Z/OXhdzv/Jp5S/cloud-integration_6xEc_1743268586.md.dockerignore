@@ -1,7 +1,6 @@
 **/*.md
 **/.env
 .cache
-assets
 node_modules
 packages/node-dev
 packages/**/node_modules
