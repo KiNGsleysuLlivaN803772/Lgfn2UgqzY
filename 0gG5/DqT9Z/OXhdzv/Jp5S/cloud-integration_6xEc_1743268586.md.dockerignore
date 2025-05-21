@@ -2,6 +2,5 @@
 .cache
 packages/node-dev
 packages/**/dist
-.git
 packages/cli/dist/**/e2e.*
 cypress
