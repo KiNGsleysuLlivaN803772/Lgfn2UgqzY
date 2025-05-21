@@ -2,4 +2,3 @@
 .cache
 packages/node-dev
 packages/**/dist
-cypress
