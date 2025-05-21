@@ -4,6 +4,5 @@
 packages/node-dev
 packages/**/dist
 .git
-.github
 packages/cli/dist/**/e2e.*
 cypress
