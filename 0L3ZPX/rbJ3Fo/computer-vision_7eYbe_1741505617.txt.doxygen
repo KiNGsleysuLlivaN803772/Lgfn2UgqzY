@@ -1813,7 +1813,6 @@ SEARCHDATA_FILE        = searchdata.xml
 # EXTERNAL_SEARCH_ID tag can be used as an identifier for the project. This is
 # useful in combination with EXTRA_SEARCH_MAPPINGS to search through multiple
 # projects and redirect the results back to the right project.
-# This tag requires that the tag SEARCHENGINE is set to YES.
 
 EXTERNAL_SEARCH_ID     =
 
