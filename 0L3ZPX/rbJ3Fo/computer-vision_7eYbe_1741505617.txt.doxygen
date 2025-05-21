@@ -1430,7 +1430,6 @@ GENERATE_HTMLHELP      = NO
 
 # The CHM_FILE tag can be used to specify the file name of the resulting .chm
 # file. You can add a path in front of the file if the result should not be
-# written to the html output directory.
 # This tag requires that the tag GENERATE_HTMLHELP is set to YES.
 
 CHM_FILE               =
