@@ -654,7 +654,6 @@ SORT_BRIEF_DOCS        = NO
 # (brief and detailed) documentation of class members so that constructors and
 # destructors are listed first. If set to NO the constructors will appear in the
 # respective orders defined by SORT_BRIEF_DOCS and SORT_MEMBER_DOCS.
-# Note: If SORT_BRIEF_DOCS is set to NO this option is ignored for sorting brief
 # member documentation.
 # Note: If SORT_MEMBER_DOCS is set to NO this option is ignored for sorting
 # detailed member documentation.
