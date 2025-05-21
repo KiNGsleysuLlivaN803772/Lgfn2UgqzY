@@ -1779,7 +1779,6 @@ SERVER_BASED_SEARCH    = NO
 # Doxygen ships with an example indexer (doxyindexer) and search engine
 # (doxysearch.cgi) which are based on the open source search engine library
 # Xapian (see:
-# https://xapian.org/).
 #
 # See the section "External Indexing and Searching" for details.
 # The default value is: NO.
