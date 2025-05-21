@@ -4,7 +4,6 @@
 packages/node-dev
 packages/**/node_modules
 packages/**/dist
-packages/**/*.test.*
 .git
 .github
 packages/cli/dist/**/e2e.*
