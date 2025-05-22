@@ -1084,7 +1084,6 @@ INLINE_SOURCES         = NO
 # The default value is: YES.
 
 STRIP_CODE_COMMENTS    = YES
-
 # If the REFERENCED_BY_RELATION tag is set to YES then for each documented
 # entity all documented functions referencing it will be listed.
 # The default value is: NO.
