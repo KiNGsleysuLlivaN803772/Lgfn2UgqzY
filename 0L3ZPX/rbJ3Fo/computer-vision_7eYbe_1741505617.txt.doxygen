@@ -629,7 +629,6 @@ FORCE_LOCAL_INCLUDES   = NO
 
 # If the INLINE_INFO tag is set to YES then a tag [inline] is inserted in the
 # documentation for inline members.
-# The default value is: YES.
 
 INLINE_INFO            = YES
 
