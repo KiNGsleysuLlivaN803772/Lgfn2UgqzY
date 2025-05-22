@@ -1255,7 +1255,6 @@ HTML_HEADER            =
 HTML_FOOTER            =
 
 # The HTML_STYLESHEET tag can be used to specify a user-defined cascading style
-# sheet that is used by each HTML page. It can be used to fine-tune the look of
 # the HTML output. If left blank doxygen will generate a default style sheet.
 # See also section "Doxygen usage" for information on how to generate the style
 # sheet that doxygen normally uses.
