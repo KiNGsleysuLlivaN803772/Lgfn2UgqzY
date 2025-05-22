@@ -2493,7 +2493,6 @@ DOT_UML_DETAILS        = NO
 # The DOT_WRAP_THRESHOLD tag can be used to set the maximum number of characters
 # to display on a single line. If the actual line length exceeds this threshold
 # significantly it will wrapped across multiple lines. Some heuristics are apply
-# to avoid ugly line breaks.
 # Minimum value: 0, maximum value: 1000, default value: 17.
 # This tag requires that the tag HAVE_DOT is set to YES.
 
